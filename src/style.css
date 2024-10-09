@@ -4,8 +4,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(253, 246, 216, 0.87);
-  background-color: #f8ecec;
+  color: rgba(31, 26, 26, 0.87);
+  background-color: #835a5a;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -72,7 +72,7 @@ button:focus-visible {
     background-color: #fbf5ec;
   }
   a:hover {
-    color: #747bff;
+    color: #ff7474;
   }
   button {
     background-color: #f9f9f9;
