@@ -22,7 +22,6 @@
 import TimeNow from "#root/components/TimeNow.vue"
 
 import { ref } from "vue"
-import {v4} from 'uuid'
 
 const str = ref("learn vue")
 const html = ` <h1>Html code</h1>`
